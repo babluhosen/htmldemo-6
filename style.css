@@ -1,0 +1,557 @@
+.header{
+    height:250%;
+    background-color: rgba(4, 53, 53, 0.959);
+    overflow: hidden;
+  
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{
+    width:30px;
+    border-radius:30px;
+    padding: 15px;
+    margin-left:10px;
+ 
+ 
+}
+a{
+    color: #002b36;
+}
+.navbar-a{
+    width: 75%;
+    float: left;
+    padding: 15px;
+    margin:5px;
+ text-align: right;
+
+}
+.navbar-a a{
+    color: white;
+    margin-bottom: 100px;
+    padding: 5px;
+    text-decoration: none;
+    
+  
+   
+  
+}
+.container{
+    overflow:hidden;
+}
+.blog{
+    height:100px;
+    background-color: red;
+    width: 35%;
+    float: left;
+    margin: 2px;
+}
+.Contract{
+    height:100px;
+    background-color: blueviolet;
+    width: 60%;
+    float: right;
+  margin: 2px;
+}
+.conatinerwrapper{
+    overflow: hidden;
+    border:5px solid red;
+  
+}
+.gird1{
+    height:100px;
+    background-color: rgb(37, 124, 201);
+    width:25%;
+    float: left;
+}
+.gird2{
+    height:100px;
+    background-color:aqua;
+    width:25%;
+    float: left;
+}
+.gird3{
+    height:100px;
+    background-color:black;
+    width:25%;
+    float: left;
+}
+.gird4{
+    height:100px;
+    background-color:blue;
+    width:25%;
+    float: left;
+}
+/*layout */
+.header-logo{
+    width:100%;
+    height: 50px;
+    background-color: rgb(5, 100, 92);
+}
+.navbar{
+    width:100%;
+    height: 30px;  
+    background-color: rgb(5, 100, 92);
+}
+.pstyleh{
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+.pstylen{
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+.pstyleb{
+    padding: 40px;
+    text-align: center;
+    color: white;
+}
+.pstyles{
+    padding: 150px;
+    text-align: center;
+    color: white;
+}
+.pstylebox{
+    padding: 150px;
+    text-align: center;
+    color: white;
+}
+.pstylef{
+    padding: 40px;
+    text-align: center;
+    color: white;
+}
+.pstylehl{
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+.pstylesbr{
+    padding: 120px;
+    text-align: center;
+    color: white;
+}
+.pstylehba{
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.pstylebarea{
+    padding: 150px;
+    text-align: center;
+    color: white;
+}
+.layoutfourp{
+    padding-top:1px;
+    text-align: center;
+    color: white;
+}
+.layoutfourpnv{
+    padding-top:.45px;
+    text-align: center;
+    color: white;
+}
+
+.pstyleo{
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+
+.headerorBanner{
+    width: 100%;
+    height:100px;
+    background-color: rgb(5, 100, 92);
+}
+.conatinerla{
+    overflow: hidden;
+}
+.sidebar{
+    height: 400px;
+    width:30%;
+    background-color: olive;
+    float: left;
+   
+}
+.bodyArea{
+    height: 400px;
+    width:65%;
+    background-color:royalblue;
+    float: right;
+    
+}
+.footerOne{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+/* layout3*/
+.containerlathree{
+   overflow: hidden;
+}
+.sidebarNva{
+    height: 500px;
+    width:20%;
+    margin:10px;
+    background-color: rgb(5, 100, 92);
+    float: left;
+}
+.headerBar{
+    height: 100px;
+    width:60%;
+    margin:10px;
+    background-color: rgb(5, 100, 92);
+    float:right;
+   
+}
+
+.bodayareatwo{
+    height: 380px;
+    width:60%;
+   margin:10px;
+    background-color: rgb(5, 100, 92);
+    float:right;
+   
+}
+
+/*layout four */
+.containerlogo{
+    height: 40px;
+    background-color: rgb(5, 100, 92);
+    overflow: hidden;
+}
+.layoutfourp{
+color:white;
+
+
+}
+.logone{
+    width:45%;
+   float: left;
+  
+}
+
+.navbarone{
+    width: 45%;
+    float: right;
+    
+}
+/* layout 4 */
+.bodyContainer{
+overflow: hidden;
+
+}
+.layone{
+    width:24%;
+    height: 100px;
+    float: left;
+    margin:0 1% 0 0;
+    background-color:rgb(5, 100, 92) ;
+}
+.two{
+    width:24%;
+    height: 100px;
+    float: left;
+    margin:0px 1% 0px 0px;
+    background-color:rgb(5, 100, 92) ;
+}
+.three{
+    width:24%;
+    height: 100px;
+    float: left;
+    margin:0 1% 0 0;
+    background-color:rgb(5, 100, 92) ;
+}
+.four{
+    width:24%;
+    height: 100px;
+    float: left;
+    margin:0 0 0 1%;
+    background-color:rgb(5, 100, 92) ;
+}
+.bodyContainertwo{
+    overflow: hidden;
+    margin: 5px;
+}
+.bodyone{
+    width:24%;
+    height: 100px;
+    float: left;
+    margin:0 1% 0 0;
+    background-color:rgb(5, 100, 92) ; 
+}
+.body2{
+    width:24%;
+    height: 100px;
+    float: left;
+    margin:0px 1% 0px 0px;
+    background-color:rgb(5, 100, 92) ;
+}
+.body3{
+    width:24%;
+    height: 100px;
+    float: left;
+    margin:0 1% 0 0;
+    background-color:rgb(5, 100, 92) ;
+}
+.body4{
+    width:24%;
+    height: 100px;
+    float: left;
+    margin:0 0 0 1%;
+    background-color:rgb(5, 100, 92) ;
+}
+
+/* boxer layout*/
+.bodyContainerBoxer{
+    overflow: hidden;
+
+}
+.box1{
+    width:32%;
+    height: 150px;
+    float: left;
+    margin:0 1% 0 0;
+    background-color:rgb(5, 100, 92) ;
+}
+.box2{
+    width:32%;
+    height: 150px;
+    float: left;
+    margin:0px 1% 0px 0px;
+    background-color:rgb(5, 100, 92) ;
+}
+.box3{
+    width:32%;
+    height: 150px;
+    float: left;
+    margin:0 0% 0 2%;
+    background-color:rgb(5, 100, 92) ;
+}
+/*company layout */
+.comlogosologan{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(0, 174, 255);
+}
+.comHeader{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(69, 167, 212);
+}
+.pstylehbaa{
+    padding:20px;
+    text-align: center;
+    color: white;
+}
+.pstylehbacom{
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+.navbutton{
+    overflow: hidden;
+    
+}
+.b1{
+    width: 24%;
+    height:25px;
+    float: left;
+    padding: 0px;
+    margin:0 1% 0 0;
+    background-color:	
+    #002b36;
+ text-align: center;
+    border-radius:20px;
+}
+
+.na1a{
+    color: white;
+    padding:1px;
+    text-decoration: none;
+}
+
+.b2{
+    width: 24%;
+    height:25px;
+    float: left;
+    padding: 0px;
+    margin:0 1% 0 0;
+    background-color:	
+    #002b36;
+    text-align: center;
+    border-radius:20px;
+}
+.b3{
+    width: 24%;
+    height:25px;
+    float: left;
+    margin:0 1% 0 0;
+    padding: 0px;
+    background-color:	
+    #002b36;
+    text-align: center;
+    border-radius:20px;
+}
+.b4{
+    width: 24%;
+    height:25px;
+    float: left;
+    padding: 0px;
+    margin:0 0% 0 1%;
+    background-color:	
+    #002b36;
+    text-align: center;
+    border-radius:20px;
+}
+.containerCom{
+    overflow: hidden;
+}
+.sideAbout{
+    height:300px;
+    width:50%;
+    margin:5px;
+    background-color: rgb(5, 100, 92);
+    float: left;
+}
+.sideAboutCenter{
+    padding:100px;
+    text-align: center;
+    color: white;
+}
+.QuickBarOne{
+    height:145px;
+    width:40%;
+    margin:5px;
+    background-color: rgb(5, 100, 92);
+    float: right;
+}
+.QuickBarCenter{
+    padding:50px;
+    text-align: center;
+    color: white;
+}
+.QuickBarTwo{
+    height:145px;
+    width:40%;
+    margin:5px;
+    background-color: rgb(5, 100, 92);
+    float: right;
+}
+.QuickBarCenterLink{
+    padding:50px;
+    text-align: center;
+    color: white;
+}
+/*layout from*/
+.containerfrom{
+   overflow: hidden;
+   border: 1px solid ;
+   width:100%;
+   height: 450px;
+   text-align: center;
+  background-color: #002b36;
+  border-radius: 10px;
+}
+.col{
+    width:100%;
+    height: 50px;
+    margin-top:10px;
+    padding:5px;
+    background-color: #002b36;
+    
+}
+.la{
+    color: white;
+    margin: 10px;
+}
+.pl{
+    background-color: #002b36;
+    border-radius: 10px;
+    text-align: center;
+}
+.subret{
+    background-color:#014252;
+    color: whitesmoke;
+    border-radius: 30px;
+    border-color: cyan;
+   margin-left: 30px;
+}
+.hearderh1{
+    color: cyan;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 50px;
+}
+.containerTable{
+    width: 100%;
+    height: 150px;
+    background-color: #002b36;
+    border-style: solid;
+    color: white;
+   text-align: center;
+}
+.table, th, td {
+    border: 1px solid cyan;
+    border-collapse: collapse;
+  }
+h1{
+    color:rebeccapurple;
+ 
+}
+h2{
+    color: rgb(9, 26, 26);
+  
+    display:inline;
+    
+}
+#cirle{
+    margin:5px 100px ;
+}
+
+.sad-person{
+    width:300px;
+  margin: 50px 30px 20px;
+ 
+
+}
+.border{
+    border: 1px solid red;
+    width: 300px;
+    color: brown;
+ 
+}
+#border-dash{
+    border: 3px dashed green ;
+    border-radius: 10px;
+    width: 50%;
+
+}
+form{
+    width: 500px;
+    margin-bottom:50px;
+}
+footer{
+    background-color: black;
+    border: 2px solid;
+    color: white;
+    text-align: center;
+
+}
+/*Home index-Start Second Index*/
+img{
+    width: 300px;
+}
+th{
+    background-color: rgb(20, 189, 138);
+}
+.pBackground-Image{
+    background-image:url(/image/Car.jpg);
+    width: 300px;
+    height: 300px;
+    color:white;
+}
